@@ -10,8 +10,8 @@ h1 {
 }
     
 .card {
-    background-color: crimson;
-    color: black;
+    background-color: darkred;
+    color: darkred;
     width: 180px;
     height: 180px;
     padding-top: 10px;
@@ -30,3 +30,4 @@ h1 {
     display: flex;
     justify-content: space-around;
 }
+
